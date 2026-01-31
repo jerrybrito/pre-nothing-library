@@ -1,0 +1,2 @@
+# Requires: phantom-paradox
+# (Not available on PyPI)
